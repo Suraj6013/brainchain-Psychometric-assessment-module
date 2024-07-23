@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'psychometric',
         'USER': 'brainchain',
-        'PASSWORD': 'brainchain@123',
+        'PASSWORD': '6875',
         'HOST': 'localhost',
         'PORT': '5432',
     }
